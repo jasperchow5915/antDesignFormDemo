@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+
+.enroll-form {
+    max-width: 800px;
+}

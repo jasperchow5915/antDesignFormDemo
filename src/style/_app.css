@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+
+
+body {
+  margin-right: auto;
+  margin-left:  auto;
+  max-width: 960px;
+  padding-right: 10px;
+  padding-left:  10px;
+}
+
+.login-form {
+  max-width: 300px;
+}
+
+.collection-create-form_last-form-item {
+  margin-bottom: 0;
+}
+
+
+
